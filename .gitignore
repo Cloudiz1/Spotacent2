@@ -1,0 +1,5 @@
+src/playlists/*
+src/songs/*
+src/__pycache__
+src/CLI/__pycache__
+src/CLI/commands/__pycache__
